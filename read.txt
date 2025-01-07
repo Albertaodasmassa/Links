@@ -1,1 +1,12 @@
-
+========================================
+   Hello Welcome/välkomna/Bem vindo!
+   Here List of Open Source for community use/Aqui a lista de Softwares Open source para comunidade:
+   1-Notepad ++
+   2-Python
+   3-Krita or Gimp
+   4-MxLinux or Linux Mint or AntiX 
+   5-VLC
+   6-Firefox Mozila
+   7-Libre Office
+   8-Sumatra PDF
+========================================
