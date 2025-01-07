@@ -1,6 +1,6 @@
 ========================================
    Hello Welcome/välkomna/Bem vindo!
-   Here List of Open Source for community use/Aqui a lista de Softwares Open source para comunidade:
+   Here List of Open Source for community/Aqui a lista de Softwares Open source para comunidade:
    1-Notepad ++
    2-Python
    3-Krita or Gimp
